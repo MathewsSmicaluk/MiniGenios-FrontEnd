@@ -1,5 +1,5 @@
 import React from 'react';
-import '../..'
+import '../Genio/genio.css'
 const Genio = () => {
     return (
         <div className="content">
@@ -26,7 +26,7 @@ const Genio = () => {
                 </nav>
             </header>
             <div className="container-h1">
-                <h1>
+                <h1 className='text-container'>
                     Tire Suas dúvidas com o Gênio
                 </h1>
                 <div className="main-container">

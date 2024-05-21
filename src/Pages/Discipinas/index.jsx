@@ -1,7 +1,7 @@
 import Navbar from '../../Components/Navbar';
-import "../Dicipinas/style.css"
+import "../Discipinas/style.css"
 
-function Diciplinas() {
+function Disciplinas() {
     
   return (
     <>
@@ -40,4 +40,4 @@ function Diciplinas() {
   );
 }
 
-export default Diciplinas;
+export default Disciplinas;
